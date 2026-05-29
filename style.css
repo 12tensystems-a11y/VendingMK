@@ -292,7 +292,7 @@ input, select, textarea { font-family: var(--font); }
 .hero-stat svg { color: var(--teal); flex-shrink: 0; }
 .hero-right {
   position: relative;
-  background-image: url('assets/images/2021_2702_0003.jpg');
+  background-image: url('2021_2702_0003.jpg');
   background-size: cover;
   background-position: center;
   min-height: 500px;
